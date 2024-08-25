@@ -8,4 +8,4 @@ acionado. A ração é dosada de acordo com a temperatura atual da água, parâm
 diretamente no apetite dos peixes. O aplicativo também oferece a possibilidade de monitorar a
 qualidade da água (por meio de gráficos e métricas) e gerenciar os custos com alimentação. Desse
 modo, é possível que o piscicultor adquira maior controle de sua produção, tenha maior lucratividade,
-evite desperdícios e aumente o bem estar dos peixes cultivados.
+evite desperdícios e aumente o bem estar dos peixes cultivados...
